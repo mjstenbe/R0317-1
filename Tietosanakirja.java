@@ -1,0 +1,4 @@
+
+class Tietosanakirja extends Kirja {
+
+}
