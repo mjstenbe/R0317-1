@@ -33,12 +33,12 @@ public class OmaKone2 {
 	    System.out.println("Virheellinen numero"); 
 	    }
 		else if (numero == 4) {
-		System.out.println("Kiitos kun k�ytit minua!"); 
+		System.out.println("Kiitos kun käytit minua!"); 
 		}
 		}
 		
-		while (OmaKone2.onnistuuko() == true); {}
-			System.out.println("Tilaus ep�onnistui!");
+		while (OmaKone2.onnistuuko() == true); {} // Tämä rakenne ei taida oikein pelata?
+			System.out.println("Tilaus epäonnistui!");
 			 
 		        }
 		
